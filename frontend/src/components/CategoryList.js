@@ -50,5 +50,5 @@ const CategoryList = () => {
     </div>
   )
 }
-const response = await fetch(SummaryApi.categoryProduct.url)
+// const response = await fetch(SummaryApi.categoryProduct.url)
 export default CategoryList
