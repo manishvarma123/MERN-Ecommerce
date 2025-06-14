@@ -1,5 +1,7 @@
 
-const backendDomin =  "https://mern-ecommerce-backend-h4dr.onrender.com"
+// const backendDomin =  "https://mern-ecommerce-backend-h4dr.onrender.com"
+const backendDomin =  "https://mern-ecommerce-backend-cizi.onrender.com"
+// const backendDomin =  "http://localhost:8080"
 
 const SummaryApi = {
     signUp : {
